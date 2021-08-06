@@ -1,0 +1,15 @@
+{
+  "name": "stackoverflow.68511005",
+  "version": "1.0.0",
+  "description": "https://stackoverflow.com/questions/68511005/how-to-create-socket-io-server-without-using-http-module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.1.3"
+  }
+}
